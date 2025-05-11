@@ -1,7 +1,7 @@
 # jirani-s-home-of-flavours
 # Jitanis Home of Flavours
 
-![Project Logo](https://via.placeholder.com/150) <!-- Replace with your actual logo -->
+![Project Logo](https://www.google.com/imgres?q=food%20store%20logo&imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Ffood-shop-logo-design-template_145155-1248.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Ffood-shop-logo-design-template_21400372.htm&docid=xk9TWSepugoJtM&tbnid=-jV1XQeKpY4sbM&vet=12ahUKEwi_rqv9m5yNAxUnRKQEHUWjEPcQM3oECEYQAA..i&w=626&h=626&hcb=2&ved=2ahUKEwi_rqv9m5yNAxUnRKQEHUWjEPcQM3oECEYQAA) <!-- Replace with your actual logo -->
 
 A delightful food ordering and delivery platform for Jitanis Home of Flavours restaurant.
 
